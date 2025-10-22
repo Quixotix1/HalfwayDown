@@ -216,7 +216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96c165c159f69a148bd71e99ce870b04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EndingManager
-  totalSceneTime: 12
+  totalSceneTime: 18
 --- !u!1 &874420118
 GameObject:
   m_ObjectHideFlags: 0

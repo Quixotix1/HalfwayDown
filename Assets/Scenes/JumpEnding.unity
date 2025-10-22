@@ -385,6 +385,8 @@ MonoBehaviour:
   - Deep breaths, close your eyes.
   - 
   - ...but they pry open.
+  - The water looks gorgeous. The seabirds cry from above.
+  - Suddenly, the world feels much calmer than it did before.
   - You see much clearer than on the surface.
   - Perhaps things would be much better...
   - ...were you not now halfway down.
@@ -775,7 +777,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96c165c159f69a148bd71e99ce870b04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EndingManager
-  totalSceneTime: 57
+  totalSceneTime: 70
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
