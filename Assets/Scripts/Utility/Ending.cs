@@ -9,7 +9,7 @@ public class Ending : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            if (Input.GetButtonDown("Interact"))
+            if (Input.GetButton("Interact"))
             {
                 EndingTracker.endingReached = true;
                 SceneManager.LoadScene(endingIndex);

@@ -8,7 +8,7 @@ public class Knife : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            if (Input.GetButtonDown("Interact"))
+            if (Input.GetButton("Interact"))
             {
                 mirror.SetActive(true);
                 gameObject.SetActive(false);

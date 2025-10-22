@@ -150,6 +150,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextManager
   text: {fileID: 1237723926}
   lines:
+  - 
   - As I slit her throat, I looked in her unblinking eyes and realised too late that
     she wanted to live.
   - I knew it to be true because mirrors don't lie.

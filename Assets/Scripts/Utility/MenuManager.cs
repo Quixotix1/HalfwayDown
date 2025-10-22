@@ -17,6 +17,8 @@ public class MenuManager : MonoBehaviour
 
     private void Start()
     {
+        Cursor.lockState = CursorLockMode.None;
+
         overlay.gameObject.SetActive(false);
 
         if (EndingTracker.endingReached)
