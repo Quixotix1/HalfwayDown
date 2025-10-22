@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b1771f7f2de939f40bcd2418723a000d
+  - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/JumpEnding.unity
+    guid: ab611ebf19f92844c8279b5b81fa7f19
+  - enabled: 1
+    path: Assets/Scenes/TherapyEnding.unity
+    guid: fb33511933f07474dbd7a22cf56b6c9b
+  - enabled: 1
+    path: Assets/Scenes/KnifeEnding.unity
+    guid: d8123a942cf4f614c98e271a0a2748e4
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
